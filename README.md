@@ -1,6 +1,6 @@
 # AppliedML2021 - Code Repository
 
-GitHub repository for code used in the course "Applied Machine Learning" 2021 at University of Copenhagen.
+GitHub repository for code used in the course "Applied Machine Learning" 2022 at University of Copenhagen.
 
 ## Getting Started
 
@@ -46,5 +46,4 @@ Once you have installed the required software and cloned the repository, you can
 ---
 ## Link to Course Information
 
-*	[Course Main page](https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2021.html)
-# AppliedML2022
+*	[Course Main page](https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2022.html)
