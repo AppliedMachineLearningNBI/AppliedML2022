@@ -46,6 +46,6 @@ These instructions have been tested on a macbook pro from 2015 running the Mojav
 
 *  In a folder of your choice, run the command for cloning the repository:
 
-  `git clone https://https://github.com/troelspetersen/AppliedML2021 .`
+  `git clone https://https://github.com/troelspetersen/AppliedML2022 .`
 
 To run a notebook, make sure you activate your anaconda environment by typing `anaconda3`. You are now set to work on the notebooks!
