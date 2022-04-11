@@ -1,4 +1,4 @@
-# AppliedML2021 - Code Repository
+# AppliedML2022 - Code Repository
 
 GitHub repository for code used in the course "Applied Machine Learning" 2022 at University of Copenhagen.
 
