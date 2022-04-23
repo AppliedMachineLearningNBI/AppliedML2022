@@ -5,11 +5,12 @@
 
 Normally, different sets of packages (or different package versions) may be required depending on a project. The safe practice for working with python is to work in different environments. Your project for the next two months is __Applied Machine Learning__ and below are the instructions for creating a virtual environment called `appml`.
 
-You can either install packages yourself (see the list below) or by running a configuration file we provide: [appml.yml](./docs/appml.yml).
+You can either install packages yourself (see the list below) or by running a configuration file we provide.
 
 **Installation**:
 
-* Download the file.
+* Download the file [appml.yml](./appml.yml) (click the link --> click 'Raw' at the top right --> right-click anywhere --> 'Save As' --> save with the correct file name).
+
 * Navigate to the file location in the terminal and type:
 
   `conda env create -f appml.yml`
@@ -26,7 +27,7 @@ To remove the environment (when you no longer need it):
 
   `conda remove -n appml --all`
 
-You can also use the configuration file for installing with __pip__ package manager (instructions inside): [requirements.txt](./docs/requirements.txt).
+You can also use the configuration file for installing with __pip__ package manager (instructions inside): [requirements.txt](./requirements.txt).
 
 
 ## Required Python Packages
