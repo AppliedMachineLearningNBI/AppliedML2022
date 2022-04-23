@@ -10,7 +10,7 @@ At this point, you have successfully installed anaconda. Now, you want to open a
 
 *  In a folder of your choice, clone the course repository to your computer:
 
-  `git clone https://https://github.com/troelspetersen/AppliedML2022 .`
+  `git clone https://github.com/AppliedMachineLearningNBI/AppliedML2022 .`
 
 This will create a local copy of the repository on your computer. You are now set to work on the notebooks!
 
