@@ -14,9 +14,13 @@ We recommend that you use your laptop, but perhaps also that you try both method
 ---
 ### Option A. Running things on your laptop
 
+<span style="color:gray">We are currently updating installation instructions. Please, report any issues to: [vadim.rusakov@nbi.ku.dk](mailto:vadim.rusakov@nbi.ku.dk).</span>
+
 To run things on your local computer, you will have to install additional software to be able to properly run the notebooks.
 
 Given the wide range of operating systems available out there, we cannot guarantee that the instructions above will work on _all_ platforms. As of now, __the instructions below have been tested on the following systems:__
+
+(NOTE: please, install Anaconda with __Python 3.8__)
 
 * [__Instructions for Linux__](./docs/install_instruction_linux.md)
 
@@ -25,10 +29,14 @@ Given the wide range of operating systems available out there, we cannot guarant
 * [__Instructions for MacOs Mojave__](./docs/install_instruction_macos_mojave.md)
 
 
+After you installed Anaconda, please see how you can install all packages required for the course:
+
+* [__Installing Python packages__](./docs/install_instruction_python.md)
+
 ---
 ### Option B. Running things on ERDA
 
-* [__The instructions for using ERDA are available here__](./docs/install_instruction_erda.md)
+* [__Instructions for using ERDA are available here__](./docs/install_instruction_erda.md)
 
 
 ---
