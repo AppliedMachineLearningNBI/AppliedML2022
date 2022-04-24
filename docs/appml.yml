@@ -13,6 +13,7 @@
 name: appml
 channels:
 - conda-forge
+- pyg
 dependencies:
 - python==3.8.12
 - notebook==6.4.6
@@ -22,7 +23,7 @@ dependencies:
 - pandas==1.4.1
 - h5py==3.6.0
 - scikit-learn==1.0.2
-- xgboost==1.5.2
+- xgboost==1.5.1
 - lightgbm==3.3.2
 - seaborn==0.11.2
 - tensorflow==2.7.0
