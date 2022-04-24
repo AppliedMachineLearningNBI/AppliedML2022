@@ -42,10 +42,10 @@ You can also use the configuration file for installing with __pip__ package mana
 `- pandas==1.4.1` \
 `- h5py==3.6.0` \
 `- scikit-learn==1.0.2` \
-`- xgboost=1.5` \
+`- xgboost==1.5.2` \
 `- lightgbm==3.3.2` \
 `- seaborn==0.11.2` \
 `- tensorflow==2.7.0` \
 `- pytorch` \
-`- pytorch_geometric` \
+`- pyg (pytorch-geometric)` \
 `- torchvision`
