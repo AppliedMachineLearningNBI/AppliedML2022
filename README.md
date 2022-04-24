@@ -14,7 +14,7 @@ We recommend that you use your laptop, but perhaps also that you try both method
 ---
 ### Option A. Running things on your laptop
 
-`We are currently updating installation instructions. Please, report any issues to: [vadim.rusakov@nbi.ku.dk](mailto:vadim.rusakov@nbi.ku.dk).`
+`We are currently updating installation instructions. Please, report any issues to:` [vadim.rusakov@nbi.ku.dk](mailto:vadim.rusakov@nbi.ku.dk).
 
 To run things on your local computer, you will have to install additional software to be able to properly run the notebooks.
 
