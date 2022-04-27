@@ -3,7 +3,17 @@
 
 ## Running things after installation
 
-At this point, you have successfully installed anaconda, installed `iminuit` in your anaconda environment and cloned the applied statistics code repository somewhere on your laptop or on ERDA. Now, you want to open a notebook and start working. Follow these steps to find out how!
+At this point, you have successfully installed anaconda. Now, you want to open a notebook and start working. Follow these steps to find out how!
+
+
+### Clone the Applied Statistics Repository
+
+*  In a folder of your choice, clone the course repository to your computer:
+
+  `git clone https://github.com/AppliedMachineLearningNBI/AppliedML2022 .`
+
+This will create a local copy of the repository on your computer. You are now set to work on the notebooks!
+
 
 
 ### Opening and running a jupyter notebook (Linux and MacOS version)
@@ -22,7 +32,7 @@ At this point, you have successfully installed anaconda, installed `iminuit` in 
 
 ### Opening and running a jupyter notebook (Windows)
 
-* Locate your notebook using the __File explorer__. Remember the path to it
+* Locate your notebook using the __File explorer__. Remember the path to it.
 
 * In the __Start Menu__, open the __Anaconda Navigator__.
 
@@ -36,9 +46,9 @@ At this point, you have successfully installed anaconda, installed `iminuit` in 
 ## Updating the code repository
 
 
-As the week pass by, additional exercices will be periodically added to the code repository. To update your local copy of the code:
+As the weeks pass by, additional exercices will be regularly added to the code repository. To make sure you have an up-to-date local copy of the repository:
 
-* open a terminal window
+* Open a terminal window.
 
 * Move to the folder where you have cloned the git: `cd /path/to/appml/AppliedML2022`
 

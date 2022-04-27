@@ -1,0 +1,32 @@
+# 14/04/2022
+#
+# The safe practice is to create different environments 
+# for different groups of packages used for specific jobs.
+# Use "appml.yml" to create an environment with conda:
+#     conda env create -f appml.yml
+# To activate `appml`:
+#     conda activate appml
+# To deactivate `appml`:
+#     conda deactivate
+# * To remove the environment:
+#     conda remove -n appml --all
+name: appml
+channels:
+- conda-forge
+- pyg
+dependencies:
+- python==3.8.12
+- notebook==6.4.6
+- numpy==1.21.5
+- scipy==1.8.0
+- matplotlib==3.5.1
+- pandas==1.4.1
+- h5py==3.6.0
+- scikit-learn==1.0.2
+- xgboost==1.5.1
+- lightgbm==3.3.2
+- seaborn==0.11.2
+- tensorflow==2.7.0
+- pytorch
+- pyg
+- torchvision
